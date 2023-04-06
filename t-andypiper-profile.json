@@ -1,0 +1,45 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T15:35:20Z",
+  "IdClaims": [
+    {
+      "Claim": "t:andypiper"
+    },
+    {
+      "Claim": "gh:andypiper"
+    },
+    {
+      "Claim": "post:andypiper"
+    },
+    {
+      "Claim": "yt:@andypiper"
+    },
+    {
+      "Claim": "mdon:@andypiper@macaw.social"
+    },
+    {
+      "Claim": "med:andypiper"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "dab65692ab00b5b820518171",
+    "Timestamp": "2023-04-06T15:40:20Z",
+    "Signature": "17ac857876124d8d0a50282b47d135ad0ee2d8d8ce2364b1c632a9f1d575d64e45e89077eea96c690ca37f2cea72cf91ab10cb1599e2c396a585dd0eb28928391aa05a4598401f721678c0c098584752fd04047826279f91eebf4901f4f8d71f93eef7dcedacd426c7e352cb619b50a616e1351434aa2d0303bfc06a389e51b3e443f86e2394dbe75a288911e524ede8ba132fcd98b7480314fac4b8c76bdefa56a9e5253b5b7fb1d4577de9fe493ccc3f0d5742519d57f645cc687df4674f9a6e1b70d5ad88776782a8d4dff408a0e047f50548c6b2196bcd93ade473914b7e7d7df7530c1d5962d9f0a527b774c191f53812372aad9b8cdfca7a1b7f168f5a"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "93994e4b2b499483b6ed73000a0ebecdb6fe5f1d20a1c9e486468f5f31d7ebd8",
+  "ContentToHash": "v1|gh:andypiper,mdon:@andypiper@macaw.social,med:andypiper,pat:no-account,post:andypiper,spout:no-account,ss:no-account,t:andypiper,yt:@andypiper|2023-04-06T15:35:20Z"
+}
